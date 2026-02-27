@@ -1,6 +1,6 @@
 # LPV gamma-DDPC
 Code of the LPV gamma-DDPC controller implemented in the paper
-> Federico Porcari, Chris Verhoek, Roland T{\'o}th, Valentina Breschi, Simone Formentin.
+> Federico Porcari, Chris Verhoek, Roland Tóth, Valentina Breschi, Simone Formentin.
 > "A subspace approach to data-driven predictive control for linear parameter varying systems".
 > arXiv preprint coming soon
 
