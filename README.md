@@ -12,5 +12,6 @@ Please cite us if you use this code for any work development:
   booktitle = {Nome Conferenza},
   year      = {2026}
 }
+```
 
 For any questions related to the code, you can contact me via email at <federico.porcari@polimi.it>
