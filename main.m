@@ -2,8 +2,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%                                                               %%%%%%
 %%%%%%      Author: Federico Porcari                                 %%%%%%
-%%%%%%      Code of the project "Linear Parameter-Varying            %%%%%%
-%%%%%%      Data-Driven Subspace Predictive Control (LPV-DDPC)"      %%%%%%
+%%%%%%      Code of the paper "A subspace approach to data-driven    %%%%%%
+%%%%%%      predictive control for linear parameter-varying systems" %%%%%%
 %%%%%%                                                               %%%%%%
 %%%%%%      Required software:                                       %%%%%%
 %%%%%%          - Signal Processing Toolbox                          %%%%%%
